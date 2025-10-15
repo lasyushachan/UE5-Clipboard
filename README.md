@@ -1,4 +1,6 @@
-Unreal Engine 5.4+ Clipboard Nodes allows you to copy and paste to your PC Clipboard in game.
+Unreal Engine Clipboard allows you to copy and/ or paste your PC Clipboard at runtime into your project.
+
+Perfect for Runtime Image downloads, URL's and Messaging.
 
 Originally created by "KujoKnight" but updated for Unreal Engine5.4.4 Up-to Unreal Engine 5.7.
 Original Author: https://kujoknight.itch.io/clipboard-nodes
